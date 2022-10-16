@@ -1,4 +1,4 @@
-  
+//navbar  
   function navbar(){
 
     let navList = document.getElementsByClassName('nav-links');
