@@ -1,4 +1,4 @@
-//nav-toggle
+//nav-toggle and edit
   function navbar(){
 
     let navList = document.getElementsByClassName('nav-links');
